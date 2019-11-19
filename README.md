@@ -15,3 +15,7 @@ PaintingGame
 MonkeyJump
 
 <img width="387" alt="MonkeyJump" src="https://user-images.githubusercontent.com/49352204/69108125-bbe94380-0a41-11ea-95c3-d41efbd62dc2.png">
+
+SmallMario
+
+<img width="801" alt="SmallMario" src="https://user-images.githubusercontent.com/49352204/69109039-767a4580-0a44-11ea-9a65-3867086120ac.png">
